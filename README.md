@@ -160,7 +160,7 @@ Do you want to contribute to this list? Feel free to send a PR and make sure you
 * [https://github.com/thinkst/canarytokens-docker](https://github.com/thinkst/canarytokens-docker)
 
 **More Resources:**
-* **asecure.cloud** [https://github.com/asecure.cloud](https://github.com/asecure.cloud) A repository of cutomizable AWS security configurations (Cloudformation and CLI templates) 
+* **asecure.cloud** [https://asecure.cloud](https://asecure.cloud/) A repository of cutomizable AWS security configurations (Cloudformation and CLI templates) 
 * **s3-leaks** [https://github.com/nagwww/s3-leaks](https://github.com/nagwww/s3-leaks) - a list of some biggest leaks recorded
 * **Model Risk AWS** [https://magoo.github.io/model-risk-aws/](https://magoo.github.io/model-risk-aws/) - POC about probabilistic risk model for AWS
 * **asecure.cloud** [https://asecure.cloud/](https://asecure.cloud/) - a great place for security resources regarding AWS Security.
